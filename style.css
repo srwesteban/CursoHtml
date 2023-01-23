@@ -1,0 +1,18 @@
+.colores{
+    color: red;
+}
+.color-hexadecimal{
+
+    color: rgba(48, 186, 55,0.3);
+}
+.fondo{
+
+    background-image: url('https://images2.alphacoders.com/856/thumb-1920-856712.jpg');
+    background-position: center;
+}
+
+.fondo-interno{
+
+    background-image: url('imagenes/mia.jpeg');
+    background-position: center;
+}
