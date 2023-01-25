@@ -16,3 +16,22 @@
     background-image: url('imagenes/mia.jpeg');
     background-position: center;
 }
+.ancho{
+
+    background-color: blueviolet;
+    width: 100px ;
+}
+.alto{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.tarjeta{
+    background-color: aquamarine;
+    border-style: solid;
+    border-color: rgb(160, 18, 200);
+    border-width: 3px;
+    margin: 40px 20px;
+    padding: 10px;
+
+}
