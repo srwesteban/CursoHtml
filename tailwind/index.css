@@ -1,0 +1,10 @@
+html{
+
+    background-color: rgb(235, 230, 224);
+}
+.contenedor{
+
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
