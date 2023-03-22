@@ -1,0 +1,10 @@
+.text-container { 
+    position: relative; 
+    animation-name: move; 
+    animation-duration: 2s; 
+} 
+
+ @keyframes move { 
+     0% { left: 0px; } 
+     100% { left: 200px; } 
+ }  
